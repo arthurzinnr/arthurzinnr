@@ -1,4 +1,4 @@
-<h1>👋 Fala, eu sou o Arthur Miguel</h1>
+<h1>👋 Fala, eu me chamo Arthur Miguel</h1>
 
 Estudante técnico de Desenvolvimento de Sistemas. Busco evoluir um pouco a cada dia.
 
