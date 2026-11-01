@@ -2,7 +2,7 @@
 
 <p align="center">
   Estudante técnico de Desenvolvimento de Sistemas.<br>
-  Busco evolui um pouco a cada dia.
+  Busco evoluir um pouco a cada dia.
 </p>
 
 <p align="center">
