@@ -40,8 +40,7 @@
 
 ## 📂 Projetos
 
-*Em breve, estou subindo meus projetos aqui.*
-
+- 🤖 [**bot-fila-discord**](https://github.com/arthurzinnr/bot-fila-discord): bot de Discord em Python para filas competitivas, com tickets, mediação, ranking e blacklist.
 ---
 
 <p align="center"><i>Quem planta paciência, colhe tranquilidade.</i></p>
